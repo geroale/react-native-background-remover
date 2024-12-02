@@ -1185,7 +1185,7 @@ PODS:
     - React-logger (= 0.74.3)
     - React-perflogger (= 0.74.3)
     - React-utils (= 0.74.3)
-  - ReactNativeBackgroundRemover (0.2.0):
+  - ReactNativeBackgroundRemover (0.3.1):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1443,7 +1443,7 @@ SPEC CHECKSUMS:
   React-runtimescheduler: 0c80752bceb80924cb8a4babc2a8e3ed70d41e87
   React-utils: a06061b3887c702235d2dac92dacbd93e1ea079e
   ReactCommon: f00e436b3925a7ae44dfa294b43ef360fbd8ccc4
-  ReactNativeBackgroundRemover: 7c9f2b452754fb6ac6b25e468476e511b49ec2ca
+  ReactNativeBackgroundRemover: 78a7077f0faa1938eef3e26e17baa990fd89c2c2
   SocketRocket: abac6f5de4d4d62d24e11868d7a2f427e0ef940d
   Yoga: 04f1db30bb810187397fa4c37dd1868a27af229c
 

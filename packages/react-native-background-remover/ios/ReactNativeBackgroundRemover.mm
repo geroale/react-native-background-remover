@@ -1,5 +1,6 @@
 #import "ReactNativeBackgroundRemover.h"
 #import "ReactNativeBackgroundRemover-Swift.h"
+#import "DeepLabV3.h"
 
 @implementation BackgroundRemover {
   BackgroundRemoverSwift *backgroundRemover;
